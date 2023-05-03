@@ -1,0 +1,1425 @@
+  error • lib/screens/code_verification_page.dart:40:13 • The named
+          parameter 'icon' is required, but there's no corresponding
+          argument. Try adding the required argument. •
+          missing_required_argument
+  error • lib/screens/code_verification_page.dart:40:13 • The named
+          parameter 'onChanged' is required, but there's no corresponding
+          argument. Try adding the required argument. •
+          missing_required_argument
+  error • lib/screens/code_verification_page.dart:46:13 • The named
+          parameter 'callback' is required, but there's no corresponding
+          argument. Try adding the required argument. •
+          missing_required_argument
+  error • lib/screens/form_page.dart:45:15 • The named parameter
+          'controller' is required, but there's no corresponding argument.
+          Try adding the required argument. • missing_required_argument
+  error • lib/screens/form_page.dart:55:15 • The named parameter
+          'controller' is required, but there's no corresponding argument.
+          Try adding the required argument. • missing_required_argument
+  error • lib/screens/form_page.dart:65:15 • The named parameter
+          'controller' is required, but there's no corresponding argument.
+          Try adding the required argument. • missing_required_argument
+  error • lib/screens/form_page.dart:75:15 • The named parameter
+          'controller' is required, but there's no corresponding argument.
+          Try adding the required argument. • missing_required_argument
+  error • lib/screens/form_page.dart:85:15 • The named parameter
+          'controller' is required, but there's no corresponding argument.
+          Try adding the required argument. • missing_required_argument
+  error • lib/screens/form_page.dart:95:15 • The named parameter 'callback'
+          is required, but there's no corresponding argument. Try adding the
+          required argument. • missing_required_argument
+  error • lib/screens/form_page.dart:104:33 • The method 'verifyPhoneNumber'
+          isn't defined for the type 'FirebaseAuthService'. Try correcting
+          the name to the name of an existing method, or defining a method named
+          'verifyPhoneNumber'. • undefined_method
+  error • lib/screens/form_page.dart:111:11 • The named parameter
+          'verificationId' isn't defined. Try correcting the name to an
+          existing named parameter's name, or defining a named parameter with
+          the name 'verificationId'. • undefined_named_parameter
+  error • lib/screens/form_page.dart:112:11 • The named parameter
+          'candidate' isn't defined. Try correcting the name to an existing
+          named parameter's name, or defining a named parameter with the name
+          'candidate'. • undefined_named_parameter
+  error • lib/screens/form_page.dart:120:3 • Expected to find ';'. •
+          expected_token
+  error • lib/screens/form_page.dart:121:1 • Expected to find ')'. •
+          expected_token
+  error • lib/screens/form_page.dart:121:1 • Expected to find ']'. •
+          expected_token
+  error • lib/screens/form_page.dart:121:1 • Expected to find '}'. •
+          expected_token
+  error • lib/screens/home_page.dart:9:18 • The parameter 'candidates' can't
+          have a value of 'null' because of its type, but the implicit default
+          value is 'null'. Try adding either an explicit non-'null' default
+          value or the 'required' modifier. •
+          missing_default_value_for_parameter
+  error • lib/screens/home_page.dart:24:15 • The element type 'Color?' can't
+          be assigned to the list type 'Color'. •
+          list_element_type_not_assignable
+  error • lib/screens/home_page.dart:57:61 • The named parameter 'candidate'
+          is required, but there's no corresponding argument. Try adding the
+          required argument. • missing_required_argument
+  error • lib/screens/results_page.dart:11:31 • With null safety, use the
+          'required' keyword, not the '@required' annotation. Try removing
+          the '@'. • missing_default_value_for_parameter
+  error • lib/screens/results_page.dart:27:59 • The method 'getCandidates'
+          isn't defined for the type 'FirestoreService'. Try correcting the
+          name to the name of an existing method, or defining a method named
+          'getCandidates'. • undefined_method
+  error • lib/screens/results_page.dart:39:13 • The named parameter
+          'selectedCandidate' isn't defined. Try correcting the name to an
+          existing named parameter's name, or defining a named parameter with
+          the name 'selectedCandidate'. • undefined_named_parameter
+  error • lib/screens/results_page.dart:47:24 • Undefined name
+          'kBackgroundColor'. Try correcting the name to one that is
+          defined, or defining the name. • undefined_identifier
+  error • lib/screens/results_page.dart:64:26 • Undefined name
+          'kHeaderTextStyle'. Try correcting the name to one that is
+          defined, or defining the name. • undefined_identifier
+  error • lib/screens/results_page.dart:69:26 • Undefined name
+          'kSubHeaderTextStyle'. Try correcting the name to one that is
+          defined, or defining the name. • undefined_identifier
+  error • lib/screens/results_page.dart:91:29 • The named parameter
+          'callback' is required, but there's no corresponding argument. Try
+          adding the required argument. • missing_required_argument
+  error • lib/screens/sign_in_page.dart:6:8 • Target of URI doesn't exist:
+          'package:oy_anketi/widgets/widgets.dart'. Try creating the file
+          referenced by the URI, or try using a URI for a file that does exist.
+          • uri_does_not_exist
+  error • lib/screens/sign_in_page.dart:14:10 • Non-nullable instance field
+          '_phoneNumber' must be initialized. Try adding an initializer
+          expression, or a generative constructor that initializes it, or mark
+          it 'late'. • not_initialized_non_nullable_instance_field
+  error • lib/screens/sign_in_page.dart:24:44 • The method
+          'verifyPhoneNumber' isn't defined for the type
+          'FirebaseAuthService'. Try correcting the name to the name of an
+          existing method, or defining a method named 'verifyPhoneNumber'. •
+          undefined_method
+  error • lib/screens/sign_in_page.dart:25:53 • The getter 'routeName' isn't
+          defined for the type 'CodeVerificationPage'. Try importing the
+          library that defines 'routeName', correcting the name to the name of
+          an existing getter, or defining a getter or field named 'routeName'. •
+          undefined_getter
+  error • lib/screens/sign_in_page.dart:58:13 • The named parameter
+          'controller' is required, but there's no corresponding argument.
+          Try adding the required argument. • missing_required_argument
+  error • lib/screens/sign_in_page.dart:58:13 • The named parameter 'icon'
+          is required, but there's no corresponding argument. Try adding the
+          required argument. • missing_required_argument
+  error • lib/screens/sign_in_page.dart:74:13 • The named parameter
+          'callback' is required, but there's no corresponding argument. Try
+          adding the required argument. • missing_required_argument
+  error • lib/screens/sign_in_page.dart:76:26 • The argument type 'dynamic
+          Function()?' can't be assigned to the parameter type 'Function'. •
+          argument_type_not_assignable
+  error • lib/services/firebase_auth_service.dart:8:7 • Undefined class
+          'AuthResult'. Try changing the name to the name of an existing
+          class, or creating a class with the name 'AuthResult'. •
+          undefined_class
+  error • lib/services/firebase_auth_service.dart:12:7 • Undefined class
+          'FirebaseUser'. Try changing the name to the name of an existing
+          class, or creating a class with the name 'FirebaseUser'. •
+          undefined_class
+  error • lib/services/firebase_auth_service.dart:22:7 • Undefined class
+          'AuthResult'. Try changing the name to the name of an existing
+          class, or creating a class with the name 'AuthResult'. •
+          undefined_class
+  error • lib/services/firebase_auth_service.dart:26:7 • Undefined class
+          'FirebaseUser'. Try changing the name to the name of an existing
+          class, or creating a class with the name 'FirebaseUser'. •
+          undefined_class
+  error • lib/services/firebase_auth_service.dart:35:5 • Undefined class
+          'FirebaseUser'. Try changing the name to the name of an existing
+          class, or creating a class with the name 'FirebaseUser'. •
+          undefined_class
+  error • lib/services/firebase_auth_service.dart:35:31 • The function can't
+          be unconditionally invoked because it can be 'null'. Try adding a
+          null check ('!'). • unchecked_use_of_nullable_value
+  error • lib/services/firebase_auth_service.dart:41:5 • Undefined class
+          'FirebaseUser'. Try changing the name to the name of an existing
+          class, or creating a class with the name 'FirebaseUser'. •
+          undefined_class
+  error • lib/services/firebase_auth_service.dart:41:31 • The function can't
+          be unconditionally invoked because it can be 'null'. Try adding a
+          null check ('!'). • unchecked_use_of_nullable_value
+  error • lib/services/firestore_service.dart:6:9 • Undefined class
+          'Firestore'. Try changing the name to the name of an existing
+          class, or creating a class with the name 'Firestore'. •
+          undefined_class
+  error • lib/services/firestore_service.dart:6:32 • Undefined name
+          'Firestore'. Try correcting the name to one that is defined, or
+          defining the name. • undefined_identifier
+  error • lib/services/firestore_service.dart:9:11 • Undefined class
+          'FirebaseUser'. Try changing the name to the name of an existing
+          class, or creating a class with the name 'FirebaseUser'. •
+          undefined_class
+  error • lib/services/firestore_service.dart:9:37 • The function can't be
+          unconditionally invoked because it can be 'null'. Try adding a
+          null check ('!'). • unchecked_use_of_nullable_value
+  error • lib/utils/constants.dart:10:29 • A value of type 'Color?' can't be
+          assigned to a variable of type 'Color'. Try changing the type of
+          the variable, or casting the right-hand type to 'Color'. •
+          invalid_assignment
+  error • lib/utils/constants.dart:18:5 • The named parameter 'cursorColor'
+          isn't defined. Try correcting the name to an existing named
+          parameter's name, or defining a named parameter with the name
+          'cursorColor'. • undefined_named_parameter
+  error • lib/utils/constants.dart:38:5 • The named parameter 'cursorColor'
+          isn't defined. Try correcting the name to an existing named
+          parameter's name, or defining a named parameter with the name
+          'cursorColor'. • undefined_named_parameter
+  error • lib/widgets/candidate_card.dart:9:20 • With null safety, use the
+          'required' keyword, not the '@required' annotation. Try removing
+          the '@'. • missing_default_value_for_parameter
+  error • lib/widgets/candidate_card.dart:10:20 • With null safety, use the
+          'required' keyword, not the '@required' annotation. Try removing
+          the '@'. • missing_default_value_for_parameter
+  error • lib/widgets/candidate_card.dart:18:16 • The argument type
+          'Function' can't be assigned to the parameter type 'void
+          Function()?'. • argument_type_not_assignable
+  error • lib/widgets/candidate_card.dart:59:33 • The getter 'party' isn't
+          defined for the type 'Candidate'. Try importing the library that
+          defines 'party', correcting the name to the name of an existing
+          getter, or defining a getter or field named 'party'. •
+          undefined_getter
+  error • lib/widgets/custom_button.dart:9:20 • With null safety, use the
+          'required' keyword, not the '@required' annotation. Try removing
+          the '@'. • missing_default_value_for_parameter
+  error • lib/widgets/custom_button.dart:10:20 • With null safety, use the
+          'required' keyword, not the '@required' annotation. Try removing
+          the '@'. • missing_default_value_for_parameter
+  error • lib/widgets/custom_button.dart:19:16 • The method 'RaisedButton'
+          isn't defined for the type 'CustomButton'. Try correcting the name
+          to the name of an existing method, or defining a method named
+          'RaisedButton'. • undefined_method
+  error • lib/widgets/custom_text_field.dart:12:10 • The parameter
+          'hintText' can't have a value of 'null' because of its type, but the
+          implicit default value is 'null'. Try adding either an explicit
+          non-'null' default value or the 'required' modifier. •
+          missing_default_value_for_parameter
+  error • lib/widgets/custom_text_field.dart:13:10 • The parameter
+          'validator' can't have a value of 'null' because of its type, but the
+          implicit default value is 'null'. Try adding either an explicit
+          non-'null' default value or the 'required' modifier. •
+          missing_default_value_for_parameter
+  error • lib/widgets/custom_text_field.dart:14:10 • The parameter 'onSaved'
+          can't have a value of 'null' because of its type, but the implicit
+          default value is 'null'. Try adding either an explicit non-'null'
+          default value or the 'required' modifier. •
+          missing_default_value_for_parameter
+  error • lib/widgets/custom_text_field.dart:26:20 • The argument type
+          'Function' can't be assigned to the parameter type 'String?
+          Function(String?)?'. • argument_type_not_assignable
+  error • lib/widgets/custom_text_field.dart:27:18 • The argument type
+          'Function' can't be assigned to the parameter type 'void
+          Function(String?)?'. • argument_type_not_assignable
+  error • test/widget_test.dart:16:30 • The constructor being called isn't a
+          const constructor. Try removing 'const' from the constructor
+          invocation. • const_with_non_const
+   info • lib/main.dart:3:8 • Unused import: 'package:http/http.dart'.
+          Try removing the import directive. • unused_import
+   info • lib/main.dart:9:7 • Constructors for public widgets should have a
+          named 'key' parameter. Try adding a named parameter to the
+          constructor. • use_key_in_widget_constructors
+   info • lib/models/candidate.dart:1:8 • Unused import:
+          'package:http/http.dart'. Try removing the import directive. •
+          unused_import
+   info • lib/screens/code_verification_page.dart:6:8 • Unused import:
+          'package:http/http.dart'. Try removing the import directive. •
+          unused_import
+   info • lib/screens/code_verification_page.dart:70:7 • Don't invoke
+          'print' in production code. Try using a logging framework. •
+          avoid_print
+   info • lib/screens/form_page.dart:7:8 • Unused import:
+          'package:oy_anketi/utils/constants.dart'. Try removing the import
+          directive. • unused_import
+   info • lib/screens/form_page.dart:8:8 • Unused import:
+          'package:oy_anketi/utils/theme.dart'. Try removing the import
+          directive. • unused_import
+   info • lib/screens/form_page.dart:16:3 • Invalid use of a private type in
+          a public API. Try making the private type public, or making the
+          API that uses the private type also be private. •
+          library_private_types_in_public_api
+   info • lib/screens/form_page.dart:22:15 • The value of the field '_name'
+          isn't used. Try removing the field, or using it. •
+          unused_field
+   info • lib/screens/form_page.dart:23:15 • The value of the field
+          '_surname' isn't used. Try removing the field, or using it. •
+          unused_field
+   info • lib/screens/form_page.dart:24:15 • The value of the field
+          '_gender' isn't used. Try removing the field, or using it. •
+          unused_field
+   info • lib/screens/form_page.dart:25:12 • The value of the field '_age'
+          isn't used. Try removing the field, or using it. •
+          unused_field
+   info • lib/screens/form_page.dart:27:10 • The private field _error could
+          be 'final'. Try making the field 'final'. •
+          prefer_final_fields
+   info • lib/screens/form_page.dart:27:10 • The value of the field '_error'
+          isn't used. Try removing the field, or using it. •
+          unused_field
+   info • lib/screens/form_page.dart:28:8 • The value of the field
+          '_loading' isn't used. Try removing the field, or using it. •
+          unused_field
+   info • lib/screens/form_page.dart:42:52 • 'headline5' is deprecated and
+          shouldn't be used. Use headlineSmall instead. This feature was
+          deprecated after v3.1.0-0.0.pre. Try replacing the use of the
+          deprecated member with the replacement. •
+          deprecated_member_use
+   info • lib/screens/home_page.dart:9:3 • Constructors for public widgets
+          should have a named 'key' parameter. Try adding a named parameter
+          to the constructor. • use_key_in_widget_constructors
+   info • lib/screens/home_page.dart:9:3 • Constructors in '@immutable'
+          classes should be declared as 'const'. Try adding 'const' to the
+          constructor declaration. •
+          prefer_const_constructors_in_immutables
+   info • lib/screens/home_page.dart:15:16 • Use 'const' with the
+          constructor to improve performance. Try adding the 'const' keyword
+          to the constructor invocation. • prefer_const_constructors
+   info • lib/screens/home_page.dart:30:20 • Use 'const' with the
+          constructor to improve performance. Try adding the 'const' keyword
+          to the constructor invocation. • prefer_const_constructors
+   info • lib/screens/home_page.dart:34:15 • Use 'const' with the
+          constructor to improve performance. Try adding the 'const' keyword
+          to the constructor invocation. • prefer_const_constructors
+   info • lib/screens/home_page.dart:36:24 • Use 'const' with the
+          constructor to improve performance. Try adding the 'const' keyword
+          to the constructor invocation. • prefer_const_constructors
+   info • lib/screens/home_page.dart:43:15 • Use 'const' with the
+          constructor to improve performance. Try adding the 'const' keyword
+          to the constructor invocation. • prefer_const_constructors
+   info • lib/screens/home_page.dart:48:28 • The parameter 'onPress' is
+          required. • missing_required_param
+   info • lib/screens/home_page.dart:52:15 • Use 'const' with the
+          constructor to improve performance. Try adding the 'const' keyword
+          to the constructor invocation. • prefer_const_constructors
+   info • lib/screens/home_page.dart:57:61 • Use 'const' with the
+          constructor to improve performance. Try adding the 'const' keyword
+          to the constructor invocation. • prefer_const_constructors
+   info • lib/screens/home_page.dart:60:17 • The 'child' argument should be
+          last in widget constructor invocations. Try moving the argument to
+          the end of the argument list. • sort_child_properties_last
+   info • lib/screens/home_page.dart:60:24 • Use 'const' with the
+          constructor to improve performance. Try adding the 'const' keyword
+          to the constructor invocation. • prefer_const_constructors
+   info • lib/screens/home_page.dart:62:19 • 'primary' is deprecated and
+          shouldn't be used. Use backgroundColor instead. This feature was
+          deprecated after v3.1.0. Try replacing the use of the deprecated
+          member with the replacement. • deprecated_member_use
+   info • lib/screens/home_page.dart:63:19 • 'onPrimary' is deprecated and
+          shouldn't be used. Use foregroundColor instead. This feature was
+          deprecated after v3.1.0. Try replacing the use of the deprecated
+          member with the replacement. • deprecated_member_use
+   info • lib/screens/home_page.dart:64:30 • Use 'const' with the
+          constructor to improve performance. Try adding the 'const' keyword
+          to the constructor invocation. • prefer_const_constructors
+   info • lib/screens/results_page.dart:5:8 • Unused import:
+          'package:oy_anketi/utils/constants.dart'. Try removing the import
+          directive. • unused_import
+   info • lib/screens/results_page.dart:11:3 • Constructors for public
+          widgets should have a named 'key' parameter. Try adding a named
+          parameter to the constructor. •
+          use_key_in_widget_constructors
+   info • lib/screens/results_page.dart:11:3 • Constructors in '@immutable'
+          classes should be declared as 'const'. Try adding 'const' to the
+          constructor declaration. •
+          prefer_const_constructors_in_immutables
+   info • lib/screens/results_page.dart:14:3 • Invalid use of a private type
+          in a public API. Try making the private type public, or making the
+          API that uses the private type also be private. •
+          library_private_types_in_public_api
+   info • lib/screens/results_page.dart:37:18 • The parameter 'onPress' is
+          required. • missing_required_param
+   info • lib/screens/results_page.dart:53:25 • Use 'const' with the
+          constructor to improve performance. Try adding the 'const' keyword
+          to the constructor invocation. • prefer_const_constructors
+   info • lib/screens/results_page.dart:54:22 • Use 'const' with the
+          constructor to improve performance. Try adding the 'const' keyword
+          to the constructor invocation. • prefer_const_constructors
+   info • lib/screens/results_page.dart:55:24 • Use 'const' with the
+          constructor to improve performance. Try adding the 'const' keyword
+          to the constructor invocation. • prefer_const_constructors
+   info • lib/screens/results_page.dart:66:17 • Use 'const' with the
+          constructor to improve performance. Try adding the 'const' keyword
+          to the constructor invocation. • prefer_const_constructors
+   info • lib/screens/results_page.dart:76:27 • Use 'const' with the
+          constructor to improve performance. Try adding the 'const' keyword
+          to the constructor invocation. • prefer_const_constructors
+   info • lib/screens/results_page.dart:78:31 • Use 'const' with the
+          constructor to improve performance. Try adding the 'const' keyword
+          to the constructor invocation. • prefer_const_constructors
+   info • lib/screens/results_page.dart:79:28 • Use 'const' with the
+          constructor to improve performance. Try adding the 'const' keyword
+          to the constructor invocation. • prefer_const_constructors
+   info • lib/screens/results_page.dart:80:29 • Use 'const' with the
+          constructor to improve performance. Try adding the 'const' keyword
+          to the constructor invocation. • prefer_const_constructors
+   info • lib/screens/results_page.dart:84:26 • Use 'const' with the
+          constructor to improve performance. Try adding the 'const' keyword
+          to the constructor invocation. • prefer_const_constructors
+   info • lib/screens/sign_in_page.dart:8:7 • Constructors for public
+          widgets should have a named 'key' parameter. Try adding a named
+          parameter to the constructor. •
+          use_key_in_widget_constructors
+   info • lib/screens/sign_in_page.dart:10:3 • Invalid use of a private type
+          in a public API. Try making the private type public, or making the
+          API that uses the private type also be private. •
+          library_private_types_in_public_api
+   info • lib/screens/sign_in_page.dart:39:18 • Use 'const' with the
+          constructor to improve performance. Try adding the 'const' keyword
+          to the constructor invocation. • prefer_const_constructors
+   info • lib/screens/sign_in_page.dart:43:13 • Use 'const' with the
+          constructor to improve performance. Try adding the 'const' keyword
+          to the constructor invocation. • prefer_const_constructors
+   info • lib/screens/sign_in_page.dart:45:22 • Use 'const' with the
+          constructor to improve performance. Try adding the 'const' keyword
+          to the constructor invocation. • prefer_const_constructors
+   info • lib/screens/sign_in_page.dart:50:13 • Use 'const' with the
+          constructor to improve performance. Try adding the 'const' keyword
+          to the constructor invocation. • prefer_const_constructors
+   info • lib/screens/sign_in_page.dart:51:13 • Use 'const' with the
+          constructor to improve performance. Try adding the 'const' keyword
+          to the constructor invocation. • prefer_const_constructors
+   info • lib/screens/sign_in_page.dart:53:22 • Use 'const' with the
+          constructor to improve performance. Try adding the 'const' keyword
+          to the constructor invocation. • prefer_const_constructors
+   info • lib/screens/sign_in_page.dart:57:13 • Use 'const' with the
+          constructor to improve performance. Try adding the 'const' keyword
+          to the constructor invocation. • prefer_const_constructors
+   info • lib/screens/sign_in_page.dart:63:13 • Use 'const' with the
+          constructor to improve performance. Try adding the 'const' keyword
+          to the constructor invocation. • prefer_const_constructors
+   info • lib/screens/sign_in_page.dart:64:13 • Use 'isNotEmpty' instead of
+          'length' to test whether the collection is empty. Try rewriting
+          the expression to use 'isNotEmpty'. • prefer_is_empty
+   info • lib/screens/sign_in_page.dart:67:28 • Use 'const' with the
+          constructor to improve performance. Try adding the 'const' keyword
+          to the constructor invocation. • prefer_const_constructors
+   info • lib/screens/sign_in_page.dart:73:13 • Use 'const' with the
+          constructor to improve performance. Try adding the 'const' keyword
+          to the constructor invocation. • prefer_const_constructors
+   info • lib/screens/sign_in_page.dart:78:13 • Use 'const' with the
+          constructor to improve performance. Try adding the 'const' keyword
+          to the constructor invocation. • prefer_const_constructors
+   info • lib/services/firebase_auth_service.dart:13:7 • Don't invoke
+          'print' in production code. Try using a logging framework. •
+          avoid_print
+   info • lib/services/firebase_auth_service.dart:15:7 • Don't invoke
+          'print' in production code. Try using a logging framework. •
+          avoid_print
+   info • lib/services/firebase_auth_service.dart:16:7 • Use 'rethrow' to
+          rethrow a caught exception. Try replacing the 'throw' with a
+          'rethrow'. • use_rethrow_when_possible
+   info • lib/services/firebase_auth_service.dart:27:7 • Don't invoke
+          'print' in production code. Try using a logging framework. •
+          avoid_print
+   info • lib/services/firebase_auth_service.dart:29:7 • Don't invoke
+          'print' in production code. Try using a logging framework. •
+          avoid_print
+   info • lib/services/firebase_auth_service.dart:30:7 • Use 'rethrow' to
+          rethrow a caught exception. Try replacing the 'throw' with a
+          'rethrow'. • use_rethrow_when_possible
+   info • lib/services/firebase_auth_service.dart:37:5 • Don't invoke
+          'print' in production code. Try using a logging framework. •
+          avoid_print
+   info • lib/services/firebase_auth_service.dart:47:5 • Don't invoke
+          'print' in production code. Try using a logging framework. •
+          avoid_print
+   info • lib/services/firestore_service.dart:14:7 • Don't invoke 'print' in
+          production code. Try using a logging framework. •
+          avoid_print
+   info • lib/utils/constants.dart:7:31 • Use 'const' with the constructor
+          to improve performance. Try adding the 'const' keyword to the
+          constructor invocation. • prefer_const_constructors
+   info • lib/utils/constants.dart:11:26 • Use 'const' with the constructor
+          to improve performance. Try adding the 'const' keyword to the
+          constructor invocation. • prefer_const_constructors
+   info • lib/utils/constants.dart:15:5 • 'backgroundColor' is deprecated
+          and shouldn't be used. Use colorScheme.background instead. This
+          feature was deprecated after v3.3.0-0.5.pre. Try replacing the use
+          of the deprecated member with the replacement. •
+          deprecated_member_use
+   info • lib/utils/constants.dart:17:5 • 'accentColor' is deprecated and
+          shouldn't be used. Use colorScheme.secondary instead. For more
+          information, consult the migration guide at
+          https://flutter.dev/docs/release/breaking-changes/theme-data-accent-properties#migration-guide.
+          This feature was deprecated after v2.3.0-0.1.pre. Try replacing
+          the use of the deprecated member with the replacement. •
+          deprecated_member_use
+   info • lib/utils/constants.dart:22:7 • 'textTheme' is deprecated and
+          shouldn't be used. This property is no longer used, please use
+          toolbarTextStyle and titleTextStyle instead. This feature was
+          deprecated after v2.4.0-0.0.pre. Try replacing the use of the
+          deprecated member with the replacement. •
+          deprecated_member_use
+   info • lib/utils/constants.dart:23:9 • 'headline6' is deprecated and
+          shouldn't be used. Use titleLarge instead. This feature was deprecated
+          after v3.1.0-0.0.pre. Try replacing the use of the deprecated
+          member with the replacement. • deprecated_member_use
+   info • lib/utils/constants.dart:34:5 • 'backgroundColor' is deprecated
+          and shouldn't be used. Use colorScheme.background instead. This
+          feature was deprecated after v3.3.0-0.5.pre. Try replacing the use
+          of the deprecated member with the replacement. •
+          deprecated_member_use
+   info • lib/utils/constants.dart:36:5 • 'accentColor' is deprecated and
+          shouldn't be used. Use colorScheme.secondary instead. For more
+          information, consult the migration guide at
+          https://flutter.dev/docs/release/breaking-changes/theme-data-accent-properties#migration-guide.
+          This feature was deprecated after v2.3.0-0.1.pre. Try replacing
+          the use of the deprecated member with the replacement. •
+          deprecated_member_use
+   info • lib/utils/constants.dart:41:7 • 'textTheme' is deprecated and
+          shouldn't be used. This property is no longer used, please use
+          toolbarTextStyle and titleTextStyle instead. This feature was
+          deprecated after v2.4.0-0.0.pre. Try replacing the use of the
+          deprecated member with the replacement. •
+          deprecated_member_use
+   info • lib/utils/constants.dart:42:9 • 'headline6' is deprecated and
+          shouldn't be used. Use titleLarge instead. This feature was deprecated
+          after v3.1.0-0.0.pre. Try replacing the use of the deprecated
+          member with the replacement. • deprecated_member_use
+   info • lib/utils/theme.dart:4:37 • Use 'const' with the constructor to
+          improve performance. Try adding the 'const' keyword to the
+          constructor invocation. • prefer_const_constructors
+   info • lib/utils/theme.dart:5:39 • Use 'const' with the constructor to
+          improve performance. Try adding the 'const' keyword to the
+          constructor invocation. • prefer_const_constructors
+   info • lib/utils/theme.dart:6:36 • Use 'const' with the constructor to
+          improve performance. Try adding the 'const' keyword to the
+          constructor invocation. • prefer_const_constructors
+   info • lib/utils/theme.dart:7:35 • Use 'const' with the constructor to
+          improve performance. Try adding the 'const' keyword to the
+          constructor invocation. • prefer_const_constructors
+   info • lib/widgets/candidate_card.dart:8:3 • Constructors for public
+          widgets should have a named 'key' parameter. Try adding a named
+          parameter to the constructor. •
+          use_key_in_widget_constructors
+   info • lib/widgets/candidate_card.dart:8:3 • Constructors in '@immutable'
+          classes should be declared as 'const'. Try adding 'const' to the
+          constructor declaration. •
+          prefer_const_constructors_in_immutables
+   info • lib/widgets/candidate_card.dart:16:15 • Use 'const' with the
+          constructor to improve performance. Try adding the 'const' keyword
+          to the constructor invocation. • prefer_const_constructors
+   info • lib/widgets/candidate_card.dart:23:24 • Use 'const' literals as
+          arguments to constructors of '@immutable' classes. Try adding
+          'const' before the literal. •
+          prefer_const_literals_to_create_immutables
+   info • lib/widgets/candidate_card.dart:24:15 • Use 'const' with the
+          constructor to improve performance. Try adding the 'const' keyword
+          to the constructor invocation. • prefer_const_constructors
+   info • lib/widgets/candidate_card.dart:26:25 • Use 'const' with the
+          constructor to improve performance. Try adding the 'const' keyword
+          to the constructor invocation. • prefer_const_constructors
+   info • lib/widgets/candidate_card.dart:34:31 • Use 'const' with the
+          constructor to improve performance. Try adding the 'const' keyword
+          to the constructor invocation. • prefer_const_constructors
+   info • lib/widgets/candidate_card.dart:35:28 • Use 'const' with the
+          constructor to improve performance. Try adding the 'const' keyword
+          to the constructor invocation. • prefer_const_constructors
+   info • lib/widgets/candidate_card.dart:36:29 • Use 'const' with the
+          constructor to improve performance. Try adding the 'const' keyword
+          to the constructor invocation. • prefer_const_constructors
+   info • lib/widgets/candidate_card.dart:46:26 • Use 'const' with the
+          constructor to improve performance. Try adding the 'const' keyword
+          to the constructor invocation. • prefer_const_constructors
+   info • lib/widgets/candidate_card.dart:52:30 • Use 'const' with the
+          constructor to improve performance. Try adding the 'const' keyword
+          to the constructor invocation. • prefer_const_constructors
+   info • lib/widgets/candidate_card.dart:57:21 • Use 'const' with the
+          constructor to improve performance. Try adding the 'const' keyword
+          to the constructor invocation. • prefer_const_constructors
+   info • lib/widgets/candidate_card.dart:60:30 • Use 'const' with the
+          constructor to improve performance. Try adding the 'const' keyword
+          to the constructor invocation. • prefer_const_constructors
+   info • lib/widgets/custom_button.dart:2:8 • Unused import:
+          'package:http/http.dart'. Try removing the import directive. •
+          unused_import
+   info • lib/widgets/custom_button.dart:8:9 • Constructors for public
+          widgets should have a named 'key' parameter. Try adding a named
+          parameter to the constructor. •
+          use_key_in_widget_constructors
+   info • lib/widgets/custom_button.dart:10:47 • Unnecessary use of the type
+          'Null'. Try using 'void' instead. • prefer_void_to_null
+   info • lib/widgets/custom_button.dart:16:15 • Use 'const' with the
+          constructor to improve performance. Try adding the 'const' keyword
+          to the constructor invocation. • prefer_const_constructors
+   info • lib/widgets/custom_button.dart:27:20 • Use 'const' with the
+          constructor to improve performance. Try adding the 'const' keyword
+          to the constructor invocation. • prefer_const_constructors
+   info • lib/widgets/custom_text_field.dart:2:8 • Unused import:
+          'package:http/http.dart'. Try removing the import directive. •
+          unused_import
+   info • lib/widgets/custom_text_field.dart:11:3 • Constructors for public
+          widgets should have a named 'key' parameter. Try adding a named
+          parameter to the constructor. •
+          use_key_in_widget_constructors
+   info • lib/widgets/custom_text_field.dart:11:3 • Constructors in
+          '@immutable' classes should be declared as 'const'. Try adding
+          'const' to the constructor declaration. •
+          prefer_const_constructors_in_immutables
+   info • lib/widgets/custom_text_field.dart:22:16 • Use 'const' with the
+          constructor to improve performance. Try adding the 'const' keyword
+          to the constructor invocation. • prefer_const_constructors
+   info • lib/widgets/custom_text_field.dart:30:27 • Use 'const' with the
+          constructor to improve performance. Try adding the 'const' keyword
+          to the constructor invocation. • prefer_const_constructors
+   info • lib/widgets/custom_text_field.dart:31:19 • Use 'const' with the
+          constructor to improve performance. Try adding the 'const' keyword
+          to the constructor invocation. • prefer_const_constructors
+   info • lib/widgets/custom_text_field.dart:32:27 • Use 'const' with the
+          constructor to improve performance. Try adding the 'const' keyword
+          to the constructor invocation. • prefer_const_constructors
+   info • lib/widgets/custom_text_field.dart:32:44 • Use 'const' with the
+          constructor to improve performance. Try adding the 'const' keyword
+          to the constructor invocation. • prefer_const_constructors
+   info • lib/widgets/custom_text_field.dart:36:27 • Use 'const' with the
+          constructor to improve performance. Try adding the 'const' keyword
+          to the constructor invocation. • prefer_const_constructors
+   info • lib/widgets/custom_text_field.dart:36:44 • Use 'const' with the
+          constructor to improve performance. Try adding the 'const' keyword
+          to the constructor invocation. • prefer_const_constructors
+   info • lib/widgets/custom_text_field.dart:40:27 • Use 'const' with the
+          constructor to improve performance. Try adding the 'const' keyword
+          to the constructor invocation. • prefer_const_constructors
+   info • lib/widgets/custom_text_field.dart:40:44 • Use 'const' with the
+          constructor to improve performance. Try adding the 'const' keyword
+          to the constructor invocation. • prefer_const_constructors
+
+174 issues found.
+rasimcakir@Rasim-MBP oy_anketi % dart fix
+Apply automated fixes to Dart source code.
+
+This tool looks for and fixes analysis issues that have associated automated
+fixes.
+
+To use the tool, run either 'dart fix --dry-run' for a preview of the
+proposed changes for a project, or 'dart fix --apply' to apply the
+changes.
+
+Usage: dart fix [arguments]
+-h, --help                      Print this usage information.
+-n, --dry-run                   Preview the proposed changes but make no
+                                changes.
+    --apply                     Apply the proposed changes.
+    --code=<code1,code2,...>    Apply fixes for one (or more) diagnostic codes.
+
+Run "dart help" to see global options.
+rasimcakir@Rasim-MBP oy_anketi % dart fix --apply
+
+Computing fixes in oy_anketi... 13.9s
+Applying fixes...                      0.0s
+
+lib/main.dart
+  prefer_const_constructors • 2 fixes
+  unused_import • 1 fix
+  use_key_in_widget_constructors • 1 fix
+
+lib/models/candidate.dart
+  unused_import • 1 fix
+
+lib/screens/code_verification_page.dart
+  unused_import • 1 fix
+
+lib/screens/form_page.dart
+  deprecated_member_use • 1 fix
+  prefer_final_fields • 1 fix
+  unused_import • 2 fixes
+
+lib/screens/home_page.dart
+  deprecated_member_use • 2 fixes
+  prefer_const_constructors • 8 fixes
+  prefer_const_constructors_in_immutables • 1 fix
+  sort_child_properties_last • 1 fix
+  use_key_in_widget_constructors • 1 fix
+
+lib/screens/results_page.dart
+  prefer_const_constructors • 4 fixes
+  prefer_const_constructors_in_immutables • 1 fix
+  unused_import • 1 fix
+  use_key_in_widget_constructors • 1 fix
+
+lib/screens/sign_in_page.dart
+  prefer_const_constructors • 9 fixes
+  prefer_is_empty • 1 fix
+  use_key_in_widget_constructors • 1 fix
+
+lib/services/firebase_auth_service.dart
+  use_rethrow_when_possible • 2 fixes
+
+lib/utils/constants.dart
+  deprecated_member_use • 16 fixes
+  prefer_const_constructors • 2 fixes
+
+lib/utils/theme.dart
+  prefer_const_constructors • 8 fixes
+  prefer_const_declarations • 8 fixes
+
+lib/widgets/candidate_card.dart
+  prefer_const_constructors • 6 fixes
+  prefer_const_constructors_in_immutables • 1 fix
+  prefer_const_literals_to_create_immutables • 1 fix
+  use_key_in_widget_constructors • 1 fix
+
+lib/widgets/custom_button.dart
+  prefer_const_constructors • 2 fixes
+  prefer_void_to_null • 1 fix
+  unused_import • 1 fix
+  use_key_in_widget_constructors • 1 fix
+
+lib/widgets/custom_text_field.dart
+  prefer_const_constructors • 5 fixes
+  prefer_const_constructors_in_immutables • 1 fix
+  unused_import • 1 fix
+  use_key_in_widget_constructors • 1 fix
+
+99 fixes made in 13 files.
+rasimcakir@Rasim-MBP oy_anketi % dart fix --apply
+
+Computing fixes in oy_anketi... 3.9s
+Nothing to fix!
+rasimcakir@Rasim-MBP oy_anketi % dart analyze
+Analyzing oy_anketi...                 1.3s
+
+  error • lib/main.dart:19:13 • A value of type 'Null' can't be assigned
+          to a parameter of type 'List<Candidate>' in a const constructor.
+          Try using a subtype, or removing the keyword 'const'. •
+          const_constructor_param_type_mismatch
+  error • lib/screens/code_verification_page.dart:39:13 • The named
+          parameter 'icon' is required, but there's no corresponding
+          argument. Try adding the required argument. •
+          missing_required_argument
+  error • lib/screens/code_verification_page.dart:39:13 • The named
+          parameter 'onChanged' is required, but there's no corresponding
+          argument. Try adding the required argument. •
+          missing_required_argument
+  error • lib/screens/code_verification_page.dart:45:13 • The named
+          parameter 'callback' is required, but there's no corresponding
+          argument. Try adding the required argument. •
+          missing_required_argument
+  error • lib/screens/form_page.dart:43:15 • The named parameter
+          'controller' is required, but there's no corresponding argument.
+          Try adding the required argument. •
+          missing_required_argument
+  error • lib/screens/form_page.dart:53:15 • The named parameter
+          'controller' is required, but there's no corresponding argument.
+          Try adding the required argument. •
+          missing_required_argument
+  error • lib/screens/form_page.dart:63:15 • The named parameter
+          'controller' is required, but there's no corresponding argument.
+          Try adding the required argument. •
+          missing_required_argument
+  error • lib/screens/form_page.dart:73:15 • The named parameter
+          'controller' is required, but there's no corresponding argument.
+          Try adding the required argument. •
+          missing_required_argument
+  error • lib/screens/form_page.dart:83:15 • The named parameter
+          'controller' is required, but there's no corresponding argument.
+          Try adding the required argument. •
+          missing_required_argument
+  error • lib/screens/form_page.dart:93:15 • The named parameter
+          'callback' is required, but there's no corresponding argument.
+          Try adding the required argument. •
+          missing_required_argument
+  error • lib/screens/form_page.dart:102:33 • The method
+          'verifyPhoneNumber' isn't defined for the type
+          'FirebaseAuthService'. Try correcting the name to the name of an
+          existing method, or defining a method named 'verifyPhoneNumber'. •
+          undefined_method
+  error • lib/screens/form_page.dart:109:11 • The named parameter
+          'verificationId' isn't defined. Try correcting the name to an
+          existing named parameter's name, or defining a named parameter with
+          the name 'verificationId'. • undefined_named_parameter
+  error • lib/screens/form_page.dart:110:11 • The named parameter
+          'candidate' isn't defined. Try correcting the name to an
+          existing named parameter's name, or defining a named parameter with
+          the name 'candidate'. • undefined_named_parameter
+  error • lib/screens/form_page.dart:118:3 • Expected to find ';'. •
+          expected_token
+  error • lib/screens/form_page.dart:119:1 • Expected to find ')'. •
+          expected_token
+  error • lib/screens/form_page.dart:119:1 • Expected to find ']'. •
+          expected_token
+  error • lib/screens/form_page.dart:119:1 • Expected to find '}'. •
+          expected_token
+  error • lib/screens/home_page.dart:9:35 • The parameter 'candidates'
+          can't have a value of 'null' because of its type, but the implicit
+          default value is 'null'. Try adding either an explicit
+          non-'null' default value or the 'required' modifier. •
+          missing_default_value_for_parameter
+  error • lib/screens/home_page.dart:24:15 • The element type 'Color?'
+          can't be assigned to the list type 'Color'. •
+          list_element_type_not_assignable
+  error • lib/screens/home_page.dart:57:61 • A value of type 'Null' can't
+          be assigned to a parameter of type 'Candidate' in a const
+          constructor. Try using a subtype, or removing the keyword
+          'const'. • const_constructor_param_type_mismatch
+  error • lib/screens/home_page.dart:57:67 • The named parameter
+          'candidate' is required, but there's no corresponding argument.
+          Try adding the required argument. •
+          missing_required_argument
+  error • lib/screens/results_page.dart:10:48 • With null safety, use the
+          'required' keyword, not the '@required' annotation. Try removing
+          the '@'. • missing_default_value_for_parameter
+  error • lib/screens/results_page.dart:26:59 • The method 'getCandidates'
+          isn't defined for the type 'FirestoreService'. Try correcting
+          the name to the name of an existing method, or defining a method
+          named 'getCandidates'. • undefined_method
+  error • lib/screens/results_page.dart:38:13 • The named parameter
+          'selectedCandidate' isn't defined. Try correcting the name to an
+          existing named parameter's name, or defining a named parameter with
+          the name 'selectedCandidate'. • undefined_named_parameter
+  error • lib/screens/results_page.dart:46:24 • Undefined name
+          'kBackgroundColor'. Try correcting the name to one that is
+          defined, or defining the name. • undefined_identifier
+  error • lib/screens/results_page.dart:63:26 • Undefined name
+          'kHeaderTextStyle'. Try correcting the name to one that is
+          defined, or defining the name. • undefined_identifier
+  error • lib/screens/results_page.dart:68:26 • Undefined name
+          'kSubHeaderTextStyle'. Try correcting the name to one that is
+          defined, or defining the name. • undefined_identifier
+  error • lib/screens/results_page.dart:90:29 • The named parameter
+          'callback' is required, but there's no corresponding argument.
+          Try adding the required argument. •
+          missing_required_argument
+  error • lib/screens/sign_in_page.dart:6:8 • Target of URI doesn't exist:
+          'package:oy_anketi/widgets/widgets.dart'. Try creating the file
+          referenced by the URI, or try using a URI for a file that does
+          exist. • uri_does_not_exist
+  error • lib/screens/sign_in_page.dart:16:10 • Non-nullable instance
+          field '_phoneNumber' must be initialized. Try adding an
+          initializer expression, or a generative constructor that initializes
+          it, or mark it 'late'. •
+          not_initialized_non_nullable_instance_field
+  error • lib/screens/sign_in_page.dart:26:44 • The method
+          'verifyPhoneNumber' isn't defined for the type
+          'FirebaseAuthService'. Try correcting the name to the name of an
+          existing method, or defining a method named 'verifyPhoneNumber'. •
+          undefined_method
+  error • lib/screens/sign_in_page.dart:27:53 • The getter 'routeName'
+          isn't defined for the type 'CodeVerificationPage'. Try importing
+          the library that defines 'routeName', correcting the name to the
+          name of an existing getter, or defining a getter or field named
+          'routeName'. • undefined_getter
+  error • lib/screens/sign_in_page.dart:60:13 • The named parameter
+          'controller' is required, but there's no corresponding argument.
+          Try adding the required argument. •
+          missing_required_argument
+  error • lib/screens/sign_in_page.dart:60:13 • The named parameter 'icon'
+          is required, but there's no corresponding argument. Try adding
+          the required argument. • missing_required_argument
+  error • lib/screens/sign_in_page.dart:76:13 • The named parameter
+          'callback' is required, but there's no corresponding argument.
+          Try adding the required argument. •
+          missing_required_argument
+  error • lib/screens/sign_in_page.dart:78:26 • The argument type 'dynamic
+          Function()?' can't be assigned to the parameter type 'Function'.
+          • argument_type_not_assignable
+  error • lib/services/firebase_auth_service.dart:8:7 • Undefined class
+          'AuthResult'. Try changing the name to the name of an existing
+          class, or creating a class with the name 'AuthResult'. •
+          undefined_class
+  error • lib/services/firebase_auth_service.dart:12:7 • Undefined class
+          'FirebaseUser'. Try changing the name to the name of an existing
+          class, or creating a class with the name 'FirebaseUser'. •
+          undefined_class
+  error • lib/services/firebase_auth_service.dart:22:7 • Undefined class
+          'AuthResult'. Try changing the name to the name of an existing
+          class, or creating a class with the name 'AuthResult'. •
+          undefined_class
+  error • lib/services/firebase_auth_service.dart:26:7 • Undefined class
+          'FirebaseUser'. Try changing the name to the name of an existing
+          class, or creating a class with the name 'FirebaseUser'. •
+          undefined_class
+  error • lib/services/firebase_auth_service.dart:35:5 • Undefined class
+          'FirebaseUser'. Try changing the name to the name of an existing
+          class, or creating a class with the name 'FirebaseUser'. •
+          undefined_class
+  error • lib/services/firebase_auth_service.dart:35:31 • The function
+          can't be unconditionally invoked because it can be 'null'. Try
+          adding a null check ('!'). •
+          unchecked_use_of_nullable_value
+  error • lib/services/firebase_auth_service.dart:41:5 • Undefined class
+          'FirebaseUser'. Try changing the name to the name of an existing
+          class, or creating a class with the name 'FirebaseUser'. •
+          undefined_class
+  error • lib/services/firebase_auth_service.dart:41:31 • The function
+          can't be unconditionally invoked because it can be 'null'. Try
+          adding a null check ('!'). •
+          unchecked_use_of_nullable_value
+  error • lib/services/firestore_service.dart:6:9 • Undefined class
+          'Firestore'. Try changing the name to the name of an existing
+          class, or creating a class with the name 'Firestore'. •
+          undefined_class
+  error • lib/services/firestore_service.dart:6:32 • Undefined name
+          'Firestore'. Try correcting the name to one that is defined, or
+          defining the name. • undefined_identifier
+  error • lib/services/firestore_service.dart:9:11 • Undefined class
+          'FirebaseUser'. Try changing the name to the name of an existing
+          class, or creating a class with the name 'FirebaseUser'. •
+          undefined_class
+  error • lib/services/firestore_service.dart:9:37 • The function can't be
+          unconditionally invoked because it can be 'null'. Try adding a
+          null check ('!'). • unchecked_use_of_nullable_value
+  error • lib/utils/constants.dart:10:29 • A value of type 'Color?' can't
+          be assigned to a variable of type 'Color'. Try changing the type
+          of the variable, or casting the right-hand type to 'Color'. •
+          invalid_assignment
+  error • lib/utils/constants.dart:31:150 • The argument for the named
+          parameter 'colorScheme' was already specified. Try removing one
+          of the named arguments, or correcting one of the names to reference
+          a different named parameter. • duplicate_named_argument
+  error • lib/utils/constants.dart:31:163 • The named parameter
+          'brightness' is required, but there's no corresponding argument.
+          Try adding the required argument. •
+          missing_required_argument
+  error • lib/utils/constants.dart:31:163 • The named parameter 'error' is
+          required, but there's no corresponding argument. Try adding the
+          required argument. • missing_required_argument
+  error • lib/utils/constants.dart:31:163 • The named parameter
+          'onBackground' is required, but there's no corresponding
+          argument. Try adding the required argument. •
+          missing_required_argument
+  error • lib/utils/constants.dart:31:163 • The named parameter 'onError'
+          is required, but there's no corresponding argument. Try adding
+          the required argument. • missing_required_argument
+  error • lib/utils/constants.dart:31:163 • The named parameter
+          'onPrimary' is required, but there's no corresponding argument.
+          Try adding the required argument. •
+          missing_required_argument
+  error • lib/utils/constants.dart:31:163 • The named parameter
+          'onSecondary' is required, but there's no corresponding
+          argument. Try adding the required argument. •
+          missing_required_argument
+  error • lib/utils/constants.dart:31:163 • The named parameter
+          'onSurface' is required, but there's no corresponding argument.
+          Try adding the required argument. •
+          missing_required_argument
+  error • lib/utils/constants.dart:31:163 • The named parameter 'primary'
+          is required, but there's no corresponding argument. Try adding
+          the required argument. • missing_required_argument
+  error • lib/utils/constants.dart:31:163 • The named parameter
+          'secondary' is required, but there's no corresponding argument.
+          Try adding the required argument. •
+          missing_required_argument
+  error • lib/utils/constants.dart:31:163 • The named parameter 'surface'
+          is required, but there's no corresponding argument. Try adding
+          the required argument. • missing_required_argument
+  error • lib/utils/constants.dart:52:148 • The argument for the named
+          parameter 'colorScheme' was already specified. Try removing one
+          of the named arguments, or correcting one of the names to reference
+          a different named parameter. • duplicate_named_argument
+  error • lib/utils/constants.dart:52:161 • The named parameter
+          'brightness' is required, but there's no corresponding argument.
+          Try adding the required argument. •
+          missing_required_argument
+  error • lib/utils/constants.dart:52:161 • The named parameter 'error' is
+          required, but there's no corresponding argument. Try adding the
+          required argument. • missing_required_argument
+  error • lib/utils/constants.dart:52:161 • The named parameter
+          'onBackground' is required, but there's no corresponding
+          argument. Try adding the required argument. •
+          missing_required_argument
+  error • lib/utils/constants.dart:52:161 • The named parameter 'onError'
+          is required, but there's no corresponding argument. Try adding
+          the required argument. • missing_required_argument
+  error • lib/utils/constants.dart:52:161 • The named parameter
+          'onPrimary' is required, but there's no corresponding argument.
+          Try adding the required argument. •
+          missing_required_argument
+  error • lib/utils/constants.dart:52:161 • The named parameter
+          'onSecondary' is required, but there's no corresponding
+          argument. Try adding the required argument. •
+          missing_required_argument
+  error • lib/utils/constants.dart:52:161 • The named parameter
+          'onSurface' is required, but there's no corresponding argument.
+          Try adding the required argument. •
+          missing_required_argument
+  error • lib/utils/constants.dart:52:161 • The named parameter 'primary'
+          is required, but there's no corresponding argument. Try adding
+          the required argument. • missing_required_argument
+  error • lib/utils/constants.dart:52:161 • The named parameter
+          'secondary' is required, but there's no corresponding argument.
+          Try adding the required argument. •
+          missing_required_argument
+  error • lib/utils/constants.dart:52:161 • The named parameter 'surface'
+          is required, but there's no corresponding argument. Try adding
+          the required argument. • missing_required_argument
+  error • lib/widgets/candidate_card.dart:9:20 • With null safety, use the
+          'required' keyword, not the '@required' annotation. Try removing
+          the '@'. • missing_default_value_for_parameter
+  error • lib/widgets/candidate_card.dart:10:20 • With null safety, use
+          the 'required' keyword, not the '@required' annotation. Try
+          removing the '@'. • missing_default_value_for_parameter
+  error • lib/widgets/candidate_card.dart:18:16 • The argument type
+          'Function' can't be assigned to the parameter type 'void
+          Function()?'. • argument_type_not_assignable
+  error • lib/widgets/candidate_card.dart:59:33 • The getter 'party' isn't
+          defined for the type 'Candidate'. Try importing the library that
+          defines 'party', correcting the name to the name of an existing
+          getter, or defining a getter or field named 'party'. •
+          undefined_getter
+  error • lib/widgets/custom_button.dart:8:20 • With null safety, use the
+          'required' keyword, not the '@required' annotation. Try removing
+          the '@'. • missing_default_value_for_parameter
+  error • lib/widgets/custom_button.dart:9:20 • With null safety, use the
+          'required' keyword, not the '@required' annotation. Try removing
+          the '@'. • missing_default_value_for_parameter
+  error • lib/widgets/custom_button.dart:18:16 • The method 'RaisedButton'
+          isn't defined for the type 'CustomButton'. Try correcting the
+          name to the name of an existing method, or defining a method named
+          'RaisedButton'. • undefined_method
+  error • lib/widgets/custom_text_field.dart:11:10 • The parameter
+          'hintText' can't have a value of 'null' because of its type, but the
+          implicit default value is 'null'. Try adding either an explicit
+          non-'null' default value or the 'required' modifier. •
+          missing_default_value_for_parameter
+  error • lib/widgets/custom_text_field.dart:12:10 • The parameter
+          'validator' can't have a value of 'null' because of its type, but
+          the implicit default value is 'null'. Try adding either an
+          explicit non-'null' default value or the 'required' modifier. •
+          missing_default_value_for_parameter
+  error • lib/widgets/custom_text_field.dart:13:10 • The parameter
+          'onSaved' can't have a value of 'null' because of its type, but the
+          implicit default value is 'null'. Try adding either an explicit
+          non-'null' default value or the 'required' modifier. •
+          missing_default_value_for_parameter
+  error • lib/widgets/custom_text_field.dart:25:20 • The argument type
+          'Function' can't be assigned to the parameter type 'String?
+          Function(String?)?'. • argument_type_not_assignable
+  error • lib/widgets/custom_text_field.dart:26:18 • The argument type
+          'Function' can't be assigned to the parameter type 'void
+          Function(String?)?'. • argument_type_not_assignable
+   info • lib/screens/code_verification_page.dart:69:7 • Don't invoke
+          'print' in production code. Try using a logging framework. •
+          avoid_print
+   info • lib/screens/form_page.dart:14:3 • Invalid use of a private type
+          in a public API. Try making the private type public, or making
+          the API that uses the private type also be private. •
+          library_private_types_in_public_api
+   info • lib/screens/form_page.dart:20:15 • The value of the field
+          '_name' isn't used. Try removing the field, or using it. •
+          unused_field
+   info • lib/screens/form_page.dart:21:15 • The value of the field
+          '_surname' isn't used. Try removing the field, or using it. •
+          unused_field
+   info • lib/screens/form_page.dart:22:15 • The value of the field
+          '_gender' isn't used. Try removing the field, or using it. •
+          unused_field
+   info • lib/screens/form_page.dart:23:12 • The value of the field '_age'
+          isn't used. Try removing the field, or using it. •
+          unused_field
+   info • lib/screens/form_page.dart:25:16 • The value of the field
+          '_error' isn't used. Try removing the field, or using it. •
+          unused_field
+   info • lib/screens/form_page.dart:26:8 • The value of the field
+          '_loading' isn't used. Try removing the field, or using it. •
+          unused_field
+   info • lib/screens/home_page.dart:48:28 • The parameter 'onPress' is
+          required. • missing_required_param
+   info • lib/screens/results_page.dart:13:3 • Invalid use of a private
+          type in a public API. Try making the private type public, or
+          making the API that uses the private type also be private. •
+          library_private_types_in_public_api
+   info • lib/screens/results_page.dart:36:18 • The parameter 'onPress' is
+          required. • missing_required_param
+   info • lib/screens/sign_in_page.dart:12:3 • Invalid use of a private
+          type in a public API. Try making the private type public, or
+          making the API that uses the private type also be private. •
+          library_private_types_in_public_api
+   info • lib/services/firebase_auth_service.dart:13:7 • Don't invoke
+          'print' in production code. Try using a logging framework. •
+          avoid_print
+   info • lib/services/firebase_auth_service.dart:15:7 • Don't invoke
+          'print' in production code. Try using a logging framework. •
+          avoid_print
+   info • lib/services/firebase_auth_service.dart:27:7 • Don't invoke
+          'print' in production code. Try using a logging framework. •
+          avoid_print
+   info • lib/services/firebase_auth_service.dart:29:7 • Don't invoke
+          'print' in production code. Try using a logging framework. •
+          avoid_print
+   info • lib/services/firebase_auth_service.dart:37:5 • Don't invoke
+          'print' in production code. Try using a logging framework. •
+          avoid_print
+   info • lib/services/firebase_auth_service.dart:47:5 • Don't invoke
+          'print' in production code. Try using a logging framework. •
+          avoid_print
+   info • lib/services/firestore_service.dart:14:7 • Don't invoke 'print'
+          in production code. Try using a logging framework. •
+          avoid_print
+
+102 issues found.
+rasimcakir@Rasim-MBP oy_anketi % dart analyze
+Analyzing oy_anketi...                 1.6s
+
+  error • lib/main.dart:19:13 • A value of type 'Null' can't be assigned
+          to a parameter of type 'List<Candidate>' in a const constructor.
+          Try using a subtype, or removing the keyword 'const'. •
+          const_constructor_param_type_mismatch
+  error • lib/screens/code_verification_page.dart:39:13 • The named
+          parameter 'icon' is required, but there's no corresponding
+          argument. Try adding the required argument. •
+          missing_required_argument
+  error • lib/screens/code_verification_page.dart:39:13 • The named
+          parameter 'onChanged' is required, but there's no corresponding
+          argument. Try adding the required argument. •
+          missing_required_argument
+  error • lib/screens/code_verification_page.dart:45:13 • The named
+          parameter 'callback' is required, but there's no corresponding
+          argument. Try adding the required argument. •
+          missing_required_argument
+  error • lib/screens/form_page.dart:43:15 • The named parameter
+          'controller' is required, but there's no corresponding argument.
+          Try adding the required argument. •
+          missing_required_argument
+  error • lib/screens/form_page.dart:53:15 • The named parameter
+          'controller' is required, but there's no corresponding argument.
+          Try adding the required argument. •
+          missing_required_argument
+  error • lib/screens/form_page.dart:63:15 • The named parameter
+          'controller' is required, but there's no corresponding argument.
+          Try adding the required argument. •
+          missing_required_argument
+  error • lib/screens/form_page.dart:73:15 • The named parameter
+          'controller' is required, but there's no corresponding argument.
+          Try adding the required argument. •
+          missing_required_argument
+  error • lib/screens/form_page.dart:83:15 • The named parameter
+          'controller' is required, but there's no corresponding argument.
+          Try adding the required argument. •
+          missing_required_argument
+  error • lib/screens/form_page.dart:93:15 • The named parameter
+          'callback' is required, but there's no corresponding argument.
+          Try adding the required argument. •
+          missing_required_argument
+  error • lib/screens/form_page.dart:102:33 • The method
+          'verifyPhoneNumber' isn't defined for the type
+          'FirebaseAuthService'. Try correcting the name to the name of an
+          existing method, or defining a method named 'verifyPhoneNumber'. •
+          undefined_method
+  error • lib/screens/form_page.dart:109:11 • The named parameter
+          'verificationId' isn't defined. Try correcting the name to an
+          existing named parameter's name, or defining a named parameter with
+          the name 'verificationId'. • undefined_named_parameter
+  error • lib/screens/form_page.dart:110:11 • The named parameter
+          'candidate' isn't defined. Try correcting the name to an
+          existing named parameter's name, or defining a named parameter with
+          the name 'candidate'. • undefined_named_parameter
+  error • lib/screens/form_page.dart:118:3 • Expected to find ';'. •
+          expected_token
+  error • lib/screens/form_page.dart:119:1 • Expected to find ')'. •
+          expected_token
+  error • lib/screens/form_page.dart:119:1 • Expected to find ']'. •
+          expected_token
+  error • lib/screens/form_page.dart:119:1 • Expected to find '}'. •
+          expected_token
+  error • lib/screens/home_page.dart:9:35 • The parameter 'candidates'
+          can't have a value of 'null' because of its type, but the implicit
+          default value is 'null'. Try adding either an explicit
+          non-'null' default value or the 'required' modifier. •
+          missing_default_value_for_parameter
+  error • lib/screens/home_page.dart:24:15 • The element type 'Color?'
+          can't be assigned to the list type 'Color'. •
+          list_element_type_not_assignable
+  error • lib/screens/home_page.dart:57:61 • A value of type 'Null' can't
+          be assigned to a parameter of type 'Candidate' in a const
+          constructor. Try using a subtype, or removing the keyword
+          'const'. • const_constructor_param_type_mismatch
+  error • lib/screens/home_page.dart:57:67 • The named parameter
+          'candidate' is required, but there's no corresponding argument.
+          Try adding the required argument. •
+          missing_required_argument
+  error • lib/screens/results_page.dart:10:48 • With null safety, use the
+          'required' keyword, not the '@required' annotation. Try removing
+          the '@'. • missing_default_value_for_parameter
+  error • lib/screens/results_page.dart:26:59 • The method 'getCandidates'
+          isn't defined for the type 'FirestoreService'. Try correcting
+          the name to the name of an existing method, or defining a method
+          named 'getCandidates'. • undefined_method
+  error • lib/screens/results_page.dart:38:13 • The named parameter
+          'selectedCandidate' isn't defined. Try correcting the name to an
+          existing named parameter's name, or defining a named parameter with
+          the name 'selectedCandidate'. • undefined_named_parameter
+  error • lib/screens/results_page.dart:46:24 • Undefined name
+          'kBackgroundColor'. Try correcting the name to one that is
+          defined, or defining the name. • undefined_identifier
+  error • lib/screens/results_page.dart:63:26 • Undefined name
+          'kHeaderTextStyle'. Try correcting the name to one that is
+          defined, or defining the name. • undefined_identifier
+  error • lib/screens/results_page.dart:68:26 • Undefined name
+          'kSubHeaderTextStyle'. Try correcting the name to one that is
+          defined, or defining the name. • undefined_identifier
+  error • lib/screens/results_page.dart:90:29 • The named parameter
+          'callback' is required, but there's no corresponding argument.
+          Try adding the required argument. •
+          missing_required_argument
+  error • lib/screens/sign_in_page.dart:6:8 • Target of URI doesn't exist:
+          'package:oy_anketi/widgets/widgets.dart'. Try creating the file
+          referenced by the URI, or try using a URI for a file that does
+          exist. • uri_does_not_exist
+  error • lib/screens/sign_in_page.dart:16:10 • Non-nullable instance
+          field '_phoneNumber' must be initialized. Try adding an
+          initializer expression, or a generative constructor that initializes
+          it, or mark it 'late'. •
+          not_initialized_non_nullable_instance_field
+  error • lib/screens/sign_in_page.dart:26:44 • The method
+          'verifyPhoneNumber' isn't defined for the type
+          'FirebaseAuthService'. Try correcting the name to the name of an
+          existing method, or defining a method named 'verifyPhoneNumber'. •
+          undefined_method
+  error • lib/screens/sign_in_page.dart:27:53 • The getter 'routeName'
+          isn't defined for the type 'CodeVerificationPage'. Try importing
+          the library that defines 'routeName', correcting the name to the
+          name of an existing getter, or defining a getter or field named
+          'routeName'. • undefined_getter
+  error • lib/screens/sign_in_page.dart:60:13 • The named parameter
+          'controller' is required, but there's no corresponding argument.
+          Try adding the required argument. •
+          missing_required_argument
+  error • lib/screens/sign_in_page.dart:60:13 • The named parameter 'icon'
+          is required, but there's no corresponding argument. Try adding
+          the required argument. • missing_required_argument
+  error • lib/screens/sign_in_page.dart:76:13 • The named parameter
+          'callback' is required, but there's no corresponding argument.
+          Try adding the required argument. •
+          missing_required_argument
+  error • lib/screens/sign_in_page.dart:78:26 • The argument type 'dynamic
+          Function()?' can't be assigned to the parameter type 'Function'.
+          • argument_type_not_assignable
+  error • lib/services/firebase_auth_service.dart:8:7 • Undefined class
+          'AuthResult'. Try changing the name to the name of an existing
+          class, or creating a class with the name 'AuthResult'. •
+          undefined_class
+  error • lib/services/firebase_auth_service.dart:12:7 • Undefined class
+          'FirebaseUser'. Try changing the name to the name of an existing
+          class, or creating a class with the name 'FirebaseUser'. •
+          undefined_class
+  error • lib/services/firebase_auth_service.dart:22:7 • Undefined class
+          'AuthResult'. Try changing the name to the name of an existing
+          class, or creating a class with the name 'AuthResult'. •
+          undefined_class
+  error • lib/services/firebase_auth_service.dart:26:7 • Undefined class
+          'FirebaseUser'. Try changing the name to the name of an existing
+          class, or creating a class with the name 'FirebaseUser'. •
+          undefined_class
+  error • lib/services/firebase_auth_service.dart:35:5 • Undefined class
+          'FirebaseUser'. Try changing the name to the name of an existing
+          class, or creating a class with the name 'FirebaseUser'. •
+          undefined_class
+  error • lib/services/firebase_auth_service.dart:35:31 • The function
+          can't be unconditionally invoked because it can be 'null'. Try
+          adding a null check ('!'). •
+          unchecked_use_of_nullable_value
+  error • lib/services/firebase_auth_service.dart:41:5 • Undefined class
+          'FirebaseUser'. Try changing the name to the name of an existing
+          class, or creating a class with the name 'FirebaseUser'. •
+          undefined_class
+  error • lib/services/firebase_auth_service.dart:41:31 • The function
+          can't be unconditionally invoked because it can be 'null'. Try
+          adding a null check ('!'). •
+          unchecked_use_of_nullable_value
+  error • lib/services/firestore_service.dart:6:9 • Undefined class
+          'Firestore'. Try changing the name to the name of an existing
+          class, or creating a class with the name 'Firestore'. •
+          undefined_class
+  error • lib/services/firestore_service.dart:6:32 • Undefined name
+          'Firestore'. Try correcting the name to one that is defined, or
+          defining the name. • undefined_identifier
+  error • lib/services/firestore_service.dart:9:11 • Undefined class
+          'FirebaseUser'. Try changing the name to the name of an existing
+          class, or creating a class with the name 'FirebaseUser'. •
+          undefined_class
+  error • lib/services/firestore_service.dart:9:37 • The function can't be
+          unconditionally invoked because it can be 'null'. Try adding a
+          null check ('!'). • unchecked_use_of_nullable_value
+  error • lib/utils/constants.dart:10:29 • A value of type 'Color?' can't
+          be assigned to a variable of type 'Color'. Try changing the type
+          of the variable, or casting the right-hand type to 'Color'. •
+          invalid_assignment
+  error • lib/utils/constants.dart:31:150 • The argument for the named
+          parameter 'colorScheme' was already specified. Try removing one
+          of the named arguments, or correcting one of the names to reference
+          a different named parameter. • duplicate_named_argument
+  error • lib/utils/constants.dart:31:163 • The named parameter
+          'brightness' is required, but there's no corresponding argument.
+          Try adding the required argument. •
+          missing_required_argument
+  error • lib/utils/constants.dart:31:163 • The named parameter 'error' is
+          required, but there's no corresponding argument. Try adding the
+          required argument. • missing_required_argument
+  error • lib/utils/constants.dart:31:163 • The named parameter
+          'onBackground' is required, but there's no corresponding
+          argument. Try adding the required argument. •
+          missing_required_argument
+  error • lib/utils/constants.dart:31:163 • The named parameter 'onError'
+          is required, but there's no corresponding argument. Try adding
+          the required argument. • missing_required_argument
+  error • lib/utils/constants.dart:31:163 • The named parameter
+          'onPrimary' is required, but there's no corresponding argument.
+          Try adding the required argument. •
+          missing_required_argument
+  error • lib/utils/constants.dart:31:163 • The named parameter
+          'onSecondary' is required, but there's no corresponding
+          argument. Try adding the required argument. •
+          missing_required_argument
+  error • lib/utils/constants.dart:31:163 • The named parameter
+          'onSurface' is required, but there's no corresponding argument.
+          Try adding the required argument. •
+          missing_required_argument
+  error • lib/utils/constants.dart:31:163 • The named parameter 'primary'
+          is required, but there's no corresponding argument. Try adding
+          the required argument. • missing_required_argument
+  error • lib/utils/constants.dart:31:163 • The named parameter
+          'secondary' is required, but there's no corresponding argument.
+          Try adding the required argument. •
+          missing_required_argument
+  error • lib/utils/constants.dart:31:163 • The named parameter 'surface'
+          is required, but there's no corresponding argument. Try adding
+          the required argument. • missing_required_argument
+  error • lib/utils/constants.dart:52:148 • The argument for the named
+          parameter 'colorScheme' was already specified. Try removing one
+          of the named arguments, or correcting one of the names to reference
+          a different named parameter. • duplicate_named_argument
+  error • lib/utils/constants.dart:52:161 • The named parameter
+          'brightness' is required, but there's no corresponding argument.
+          Try adding the required argument. •
+          missing_required_argument
+  error • lib/utils/constants.dart:52:161 • The named parameter 'error' is
+          required, but there's no corresponding argument. Try adding the
+          required argument. • missing_required_argument
+  error • lib/utils/constants.dart:52:161 • The named parameter
+          'onBackground' is required, but there's no corresponding
+          argument. Try adding the required argument. •
+          missing_required_argument
+  error • lib/utils/constants.dart:52:161 • The named parameter 'onError'
+          is required, but there's no corresponding argument. Try adding
+          the required argument. • missing_required_argument
+  error • lib/utils/constants.dart:52:161 • The named parameter
+          'onPrimary' is required, but there's no corresponding argument.
+          Try adding the required argument. •
+          missing_required_argument
+  error • lib/utils/constants.dart:52:161 • The named parameter
+          'onSecondary' is required, but there's no corresponding
+          argument. Try adding the required argument. •
+          missing_required_argument
+  error • lib/utils/constants.dart:52:161 • The named parameter
+          'onSurface' is required, but there's no corresponding argument.
+          Try adding the required argument. •
+          missing_required_argument
+  error • lib/utils/constants.dart:52:161 • The named parameter 'primary'
+          is required, but there's no corresponding argument. Try adding
+          the required argument. • missing_required_argument
+  error • lib/utils/constants.dart:52:161 • The named parameter
+          'secondary' is required, but there's no corresponding argument.
+          Try adding the required argument. •
+          missing_required_argument
+  error • lib/utils/constants.dart:52:161 • The named parameter 'surface'
+          is required, but there's no corresponding argument. Try adding
+          the required argument. • missing_required_argument
+  error • lib/widgets/candidate_card.dart:9:20 • With null safety, use the
+          'required' keyword, not the '@required' annotation. Try removing
+          the '@'. • missing_default_value_for_parameter
+  error • lib/widgets/candidate_card.dart:10:20 • With null safety, use
+          the 'required' keyword, not the '@required' annotation. Try
+          removing the '@'. • missing_default_value_for_parameter
+  error • lib/widgets/candidate_card.dart:18:16 • The argument type
+          'Function' can't be assigned to the parameter type 'void
+          Function()?'. • argument_type_not_assignable
+  error • lib/widgets/candidate_card.dart:59:33 • The getter 'party' isn't
+          defined for the type 'Candidate'. Try importing the library that
+          defines 'party', correcting the name to the name of an existing
+          getter, or defining a getter or field named 'party'. •
+          undefined_getter
+  error • lib/widgets/custom_button.dart:8:20 • With null safety, use the
+          'required' keyword, not the '@required' annotation. Try removing
+          the '@'. • missing_default_value_for_parameter
+  error • lib/widgets/custom_button.dart:9:20 • With null safety, use the
+          'required' keyword, not the '@required' annotation. Try removing
+          the '@'. • missing_default_value_for_parameter
+  error • lib/widgets/custom_button.dart:18:16 • The method 'RaisedButton'
+          isn't defined for the type 'CustomButton'. Try correcting the
+          name to the name of an existing method, or defining a method named
+          'RaisedButton'. • undefined_method
+  error • lib/widgets/custom_text_field.dart:11:10 • The parameter
+          'hintText' can't have a value of 'null' because of its type, but the
+          implicit default value is 'null'. Try adding either an explicit
+          non-'null' default value or the 'required' modifier. •
+          missing_default_value_for_parameter
+  error • lib/widgets/custom_text_field.dart:12:10 • The parameter
+          'validator' can't have a value of 'null' because of its type, but
+          the implicit default value is 'null'. Try adding either an
+          explicit non-'null' default value or the 'required' modifier. •
+          missing_default_value_for_parameter
+  error • lib/widgets/custom_text_field.dart:13:10 • The parameter
+          'onSaved' can't have a value of 'null' because of its type, but the
+          implicit default value is 'null'. Try adding either an explicit
+          non-'null' default value or the 'required' modifier. •
+          missing_default_value_for_parameter
+  error • lib/widgets/custom_text_field.dart:25:20 • The argument type
+          'Function' can't be assigned to the parameter type 'String?
+          Function(String?)?'. • argument_type_not_assignable
+  error • lib/widgets/custom_text_field.dart:26:18 • The argument type
+          'Function' can't be assigned to the parameter type 'void
+          Function(String?)?'. • argument_type_not_assignable
+   info • lib/screens/code_verification_page.dart:69:7 • Don't invoke
+          'print' in production code. Try using a logging framework. •
+          avoid_print
+   info • lib/screens/form_page.dart:14:3 • Invalid use of a private type
+          in a public API. Try making the private type public, or making
+          the API that uses the private type also be private. •
+          library_private_types_in_public_api
+   info • lib/screens/form_page.dart:20:15 • The value of the field
+          '_name' isn't used. Try removing the field, or using it. •
+          unused_field
+   info • lib/screens/form_page.dart:21:15 • The value of the field
+          '_surname' isn't used. Try removing the field, or using it. •
+          unused_field
+   info • lib/screens/form_page.dart:22:15 • The value of the field
+          '_gender' isn't used. Try removing the field, or using it. •
+          unused_field
+   info • lib/screens/form_page.dart:23:12 • The value of the field '_age'
+          isn't used. Try removing the field, or using it. •
+          unused_field
+   info • lib/screens/form_page.dart:25:16 • The value of the field
+          '_error' isn't used. Try removing the field, or using it. •
+          unused_field
+   info • lib/screens/form_page.dart:26:8 • The value of the field
+          '_loading' isn't used. Try removing the field, or using it. •
+          unused_field
+   info • lib/screens/home_page.dart:48:28 • The parameter 'onPress' is
+          required. • missing_required_param
+   info • lib/screens/results_page.dart:13:3 • Invalid use of a private
+          type in a public API. Try making the private type public, or
+          making the API that uses the private type also be private. •
+          library_private_types_in_public_api
+   info • lib/screens/results_page.dart:36:18 • The parameter 'onPress' is
+          required. • missing_required_param
+   info • lib/screens/sign_in_page.dart:12:3 • Invalid use of a private
+          type in a public API. Try making the private type public, or
+          making the API that uses the private type also be private. •
+          library_private_types_in_public_api
+   info • lib/services/firebase_auth_service.dart:13:7 • Don't invoke
+          'print' in production code. Try using a logging framework. •
+          avoid_print
+   info • lib/services/firebase_auth_service.dart:15:7 • Don't invoke
+          'print' in production code. Try using a logging framework. •
+          avoid_print
+   info • lib/services/firebase_auth_service.dart:27:7 • Don't invoke
+          'print' in production code. Try using a logging framework. •
+          avoid_print
+   info • lib/services/firebase_auth_service.dart:29:7 • Don't invoke
+          'print' in production code. Try using a logging framework. •
+          avoid_print
+   info • lib/services/firebase_auth_service.dart:37:5 • Don't invoke
+          'print' in production code. Try using a logging framework. •
+          avoid_print
+   info • lib/services/firebase_auth_service.dart:47:5 • Don't invoke
+          'print' in production code. Try using a logging framework. •
+          avoid_print
+   info • lib/services/firestore_service.dart:14:7 • Don't invoke 'print'
+          in production code. Try using a logging framework. •
+          avoid_print
+
+102 issues found.
+rasimcakir@Rasim-MBP oy_anketi % 
